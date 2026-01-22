@@ -19,7 +19,7 @@ This project applies **Exploratory Data Analysis (EDA)** to a retail dataset to 
 - Matplotlib  
 
 ### Data Source
-- Kaggle: **E-commerce Data**
+- Kaggle: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ### Core Insights
 - Sales distribution is highly skewed  
@@ -44,7 +44,7 @@ A focused EDA of medical records aimed at identifying missing clinical metrics a
 - Matplotlib  
 
 ### Data Source
-- Kaggle: **Pima Indians Diabetes Database**
+- Kaggle: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ### Core Insights
 - Critical data quality issues were uncovered  
@@ -69,7 +69,7 @@ This analysis explores a real estate dataset to uncover how various property att
 - Seaborn / Matplotlib  
 
 ### Data Source
-- Kaggle: **Housing Price Prediction**
+- Kaggle: https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
 ### Core Insights
 - **Total area** is the primary driver of housing cost  
@@ -94,7 +94,7 @@ An investigation into demographic and spending data to better understand consume
 - Matplotlib  
 
 ### Data Source
-- Kaggle: **Customer Personality Analysis**
+- Kaggle:https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 ### Core Insights
 - Income data requires significant cleaning due to missing values  
